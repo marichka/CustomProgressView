@@ -1,7 +1,7 @@
 CustomProgressView
 ============
 
-This tutorial will show how to create simple circular progress view
+This project shows how to create simple circular progress view
 
 tutorial available here: 
 
